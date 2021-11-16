@@ -1,1 +1,1 @@
-# prometheus-net.EntityFramework
+# prometheus-net.EntityFrameworkCore
